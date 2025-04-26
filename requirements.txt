@@ -18,4 +18,5 @@ scikit-learn
 nest_asyncio
 ta
 pandas-ta
+xgboost
 
