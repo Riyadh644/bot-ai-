@@ -1,0 +1,23 @@
+[
+  {
+    "symbol": "AAPL",
+    "close": 175.5,
+    "change": 1.2,
+    "vol": 5000000,
+    "market_cap": 2800000000000.0
+  },
+  {
+    "symbol": "MSFT",
+    "close": 330.2,
+    "change": 0.8,
+    "vol": 4000000,
+    "market_cap": 2500000000000.0
+  },
+  {
+    "symbol": "GOOGL",
+    "close": 145.75,
+    "change": 1.5,
+    "vol": 3000000,
+    "market_cap": 1900000000000.0
+  }
+]

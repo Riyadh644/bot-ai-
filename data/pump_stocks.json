@@ -1,0 +1,38 @@
+[
+  {
+    "symbol": "WW",
+    "price": 0.4,
+    "change%": 166.67,
+    "volume": 218821000,
+    "avg_volume": 7233356,
+    "rsi": 41.43,
+    "timestamp": "2025-04-26T05:58:50.160953"
+  },
+  {
+    "symbol": "RTC",
+    "price": 0.33,
+    "change%": 73.68,
+    "volume": 262481500,
+    "avg_volume": 9442623,
+    "rsi": 62.26,
+    "timestamp": "2025-04-26T05:58:49.994436"
+  },
+  {
+    "symbol": "SXTC",
+    "price": 2.29,
+    "change%": 44.94,
+    "volume": 37972600,
+    "avg_volume": 4124233,
+    "rsi": 48.88,
+    "timestamp": "2025-04-26T05:58:52.224011"
+  },
+  {
+    "symbol": "AGMH",
+    "price": 0.05,
+    "change%": 25.64,
+    "volume": 339405900,
+    "avg_volume": 47282290,
+    "rsi": 48.42,
+    "timestamp": "2025-04-26T05:58:49.505073"
+  }
+]
